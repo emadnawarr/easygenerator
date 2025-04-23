@@ -19,7 +19,7 @@ easygenerator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/easygenerator.git
+git clone https://github.com/emadnawarr/easygenerator.git
 cd easygenerator
 ```
 
