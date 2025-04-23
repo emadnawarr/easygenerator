@@ -1,0 +1,29 @@
+.landing-container {
+  height: 100vh;
+  width: 100%;
+  position: relative;
+  background-color: #f5f5f5;
+}
+
+.landing-actions {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  display: flex;
+  gap: 1rem;
+  z-index: 10;
+
+}
+
+.landing-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.landing-svg {
+  width: 300px;
+  max-width: 80%;
+  height: auto;
+}
