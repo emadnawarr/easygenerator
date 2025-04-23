@@ -105,5 +105,4 @@ You can test all available endpoints and authenticate using a JWT by clicking th
 ## Author
 
 **Emad Nawar**  
-Full Stack Developer  
-[linkedin.com/in/emadnawar](https://linkedin.com/in/emadnawar)
+
