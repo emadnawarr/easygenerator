@@ -7,7 +7,7 @@ import { MongooseModule } from '@nestjs/mongoose';
   imports: [
     MongooseModule.forRoot(
       process.env.MONGO_URI ||
-        'mongodb+srv://emadnawar:2Yu8TJUiweZjKAIz@cluster0.ehk2xpq.mongodb.net/',
+        'mongodb+srv://emadnawar:osvGlNmyuVEtKqG8@cluster0.bebygr0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
     ),
     AuthModule,
     UserModule,

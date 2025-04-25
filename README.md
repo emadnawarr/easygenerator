@@ -69,7 +69,7 @@ npm start
 These can be configured in a `.env` file in the `backend/` directory:
 
 ```env
-MONGO_URI=mongodb+srv://emadnawar:2Yu8TJUiweZjKAIz@cluster0.ehk2xpq.mongodb.net/
+MONGO_URI=mongodb+srv://emadnawar:osvGlNmyuVEtKqG8@cluster0.bebygr0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=emad-easy-generator
 PORT=4000
 ```
